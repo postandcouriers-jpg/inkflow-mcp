@@ -1,0 +1,13 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "org.inkflowstudio/inkflow",
+  "description": "FREE, no key: Chapter 1 of a novel in 1 of 11 voices, or a manual or medical guide. 22 languages.",
+  "version": "1.18.0",
+  "websiteUrl": "https://inkflowstudio.org",
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://api.inkflowstudio.org/api/mcp"
+    }
+  ]
+}
