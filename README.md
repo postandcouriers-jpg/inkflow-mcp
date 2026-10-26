@@ -1,6 +1,6 @@
-# INKFLOW — MCP server
+# INKFLOW — AI book writer & story generator (MCP server)
 
-**Write a book, a manual or a promo video from any AI agent.** INKFLOW is a UK book-writing studio with a public
+**An AI book writer and AI story generator for any AI agent: write a book, a book series, an SOP or a manual.** INKFLOW is a UK book-writing studio with a public
 [Model Context Protocol](https://modelcontextprotocol.io) server. Your agent can try it free (no key, no signup),
 get a firm quote, place an order and collect the finished work — books, series, manuals, translations,
 audiobooks and TikTok / YouTube promo videos.
@@ -8,6 +8,7 @@ audiobooks and TikTok / YouTube promo videos.
 - **Website:** https://inkflowstudio.org
 - **MCP endpoint (streamable HTTP):** `https://api.inkflowstudio.org/api/mcp`
 - **Official MCP Registry:** `org.inkflowstudio/inkflow`
+- **Claude:** listed in Claude's connector directory as INKFLOW (search "inkflow")
 
 ## Try it free — no key
 
