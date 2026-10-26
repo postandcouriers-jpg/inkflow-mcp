@@ -15,6 +15,13 @@ audiobooks and TikTok / YouTube promo videos.
 `inkflow_write_free_chapter` writes **Chapter 1 of a novel** (in one of 11 writing voices), or a section of a
 **manual, technical spec or medical guide**, from a sentence or two — in about a minute, in 22 languages.
 
+## Manuals, SOPs and document rewrites
+
+- **Write** a manual, SOP, technical specification, clinical guide or NHS-style policy: the named make and model and the current guidance (UK: NICE, CQC, HSE, MHRA) are researched first, every measured value is traced to its source, and missing facts become marked placeholders. Delivered in Word and PDF with diagrams, a document control page and a training pack.
+- **Rewrite** a document you already have (`document-revision`): reviewed, checked against current guidance and rewritten in plain English, Easy Read or Simplified Technical English, every fact and value kept, with a review report, change log and comparison.
+- **Read your files**: CAD (STEP, IGES, DXF, DWG), 3D-print, BIM (IFC), PDF, Word, Excel, DITA, S1000D, Visio, Gerber/KiCad and more.
+- **Audio**: manuals and books narrated, with steps, warnings and "see figure 3.2" read clearly.
+
 ## Connect
 
 Any MCP client that supports remote servers:
@@ -34,7 +41,7 @@ Any MCP client that supports remote servers:
 | `inkflow_write_free_chapter` | Free Chapter 1 / manual section — no payment, no key |
 | `inkflow_capabilities` | The full catalogue, with live prices |
 | `inkflow_quote` | A firm price quote without ordering, in your currency |
-| `inkflow_order` | Place a paid order (book, series, manual, translation, audiobook, short or YouTube video) |
+| `inkflow_order` | Place a paid order (book, series, manual, document revision, translation, audiobook, short or YouTube video) |
 | `inkflow_job_status` | Live progress and delivery links |
 | `inkflow_balance` / `inkflow_topup` | Prepaid credit, so an agent can buy without a checkout page |
 | `inkflow_free_samples` | Free samples of trained digital-actor and set models |
@@ -61,3 +68,7 @@ Contact: inkflowmail@gmail.com
 - [Fantasy story generator](https://inkflowstudio.org/fantasy-story-generator) — the whole novel, not a paragraph
 - [AI romance story generator](https://inkflowstudio.org/ai-romance-story-generator) — the full love story, your tropes
 - [AI SOP generator](https://inkflowstudio.org/ai-sop-generator) — company manuals and procedures that never invent facts
+- [AI technical manual writer](https://inkflowstudio.org/technical-manual-writer) — manuals from your product, files and CAD
+- [Clinical SOP and NHS-style policy writer](https://inkflowstudio.org/nhs-policy-and-clinical-sop-writer) — checked against current guidance
+- [Rewrite documents in plain English](https://inkflowstudio.org/rewrite-documents-in-plain-english) — upload, review, update, rewrite
+- [Convert a book, manual or SOP to audio](https://inkflowstudio.org/convert-book-to-audiobook) — figures referenced by number
