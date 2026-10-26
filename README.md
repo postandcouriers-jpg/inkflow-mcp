@@ -53,3 +53,11 @@ This repository holds the public description of the server (`server.json`, mirro
 entry) so directories can list it. The server itself is hosted by INKFLOW; there is nothing to install.
 
 Contact: inkflowmail@gmail.com
+
+## Guides
+
+- [Write a book with AI](https://inkflowstudio.org/write-a-book-with-ai) — one sentence to a finished manuscript
+- [Write a book series with AI](https://inkflowstudio.org/write-a-book-series-with-ai) — up to 10 books kept consistent
+- [Fantasy story generator](https://inkflowstudio.org/fantasy-story-generator) — the whole novel, not a paragraph
+- [AI romance story generator](https://inkflowstudio.org/ai-romance-story-generator) — the full love story, your tropes
+- [AI SOP generator](https://inkflowstudio.org/ai-sop-generator) — company manuals and procedures that never invent facts
