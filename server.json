@@ -2,8 +2,8 @@
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
   "name": "org.inkflowstudio/inkflow",
   "title": "INKFLOW Studio",
-  "description": "Whole books by AI: novels, series up to 10 books with continuity, SOPs, 26 languages. Chapter 1 free",
-  "version": "1.22.0",
+  "description": "AI book writer: novels, 10-book series, SOPs, 26 languages. Chapter 1 free; 3 chapters free on site",
+  "version": "1.22.1",
   "websiteUrl": "https://inkflowstudio.org",
   "remotes": [
     {
